@@ -1,0 +1,3 @@
+C:/Users/zener/CLionProjects/BootCamp/cmake-build-debug/CMakeFiles/CLionProjects.dir
+C:/Users/zener/CLionProjects/BootCamp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zener/CLionProjects/BootCamp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
